@@ -15,10 +15,10 @@ This project focuses on analyzing hotel booking data to extract meaningful insig
 
 Hotels face challenges such as high booking cancellations, seasonal demand fluctuations, and customer segmentation.
 The goal is to analyze booking data to
-
 Identify cancellation patterns
 Understand customer preferences
 Improve revenue strategies
+
 ## 📊 Dataset
 Source Public hotel booking dataset (e.g., Kaggle)
 Contains information like
@@ -38,16 +38,19 @@ Matplotlib  Seaborn
 Jupyter Notebook
 Power BI 📊
 Git & GitHub
+
 ## ⚙️ Methods
 Data Cleaning (handling null values, formatting)
 Feature Engineering
 Exploratory Data Analysis (EDA)
 Visualization (Python + Power BI)
+
 ## 🔍 Key Insights
 Cancellation rates are higher for certain customer types
 Seasonal trends affect booking frequency
 ADR varies significantly across hotel types
 Repeat customers have lower cancellation rates
+
 ## 📈 Dashboard  Model  Output
 Interactive Power BI Dashboard showing
 Booking trends
@@ -68,14 +71,17 @@ Run the Jupyter Notebook
 jupyter notebook
 Open Power BI file
 Open .pbix file from Dashboard
+
 ## 📌 Results & Conclusion
 Identified key factors affecting cancellations
 Provided actionable insights for revenue improvement
 Built a dashboard for easy business understanding
+
 ## 🚀 Future Work
 Apply machine learning models for prediction
 Build a real-time dashboard
 Deploy as a web application
+
 👤 Author & Contact
 
 Mohammed Sameer
